@@ -49,6 +49,21 @@ Designed with a **tabloid / New York Post** style to make data visually engaging
 
 ---
 
+## 🎬 Dashboard Previews
+
+A quick look at the interactive dashboards from **Born to Live, Born to Die**.
+
+| Global Overview | Regional Trends | World by Regions |
+|------------------|----------------|------------------|
+| ![Global Overview](demo_page1.gif) | ![Regional Trends](demo_page2.gif) | ![World by Regions](demo_page3.gif) |
+
+Each GIF shows key interactions:
+- **Global Overview:** world rankings, tooltips, and filters in action.  
+- **Regional Trends:** country comparison and temporal analysis.  
+- **World by Regions:** demographic distribution and interactivity by continent.
+
+---
+
 ## 🔗 External Link
 _The interactive version will be available soon on my Tableau Public profile._
 
