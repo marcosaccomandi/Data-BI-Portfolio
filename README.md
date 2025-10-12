@@ -1,6 +1,6 @@
-# Hi there, I'm Marco Saccomandi
+# 👋 Hi there, I'm Marco Saccomandi
 
-### Junior Data Analyst & BI Developer | Developing expertise in Data Visualization & Storytelling
+### 🧠 Junior Data Analyst & BI Developer | Developing expertise in Data Visualization & Storytelling
 
 Welcome to my GitHub!  
 I’m a **Junior Data Analyst and BI Developer** with a strong background in **eCommerce and digital marketing**, now focused on **data visualization, dashboard design, and business insights**.
@@ -10,7 +10,7 @@ This evolved into a passion for turning complex datasets into clear, visual stor
 
 ---
 
-## Featured Project
+## 🌍 Featured Project 🌍
 
 #### [Born to Live, Born to Die – Health & Demographic Data Visualization](https://github.com/marcosaccomandi/Data-BI-Portfolio/tree/main/tableau/born-to-live-born-to-die)
 A **three-page Tableau dashboard** designed in a **tabloid-style layout inspired by the New York Post**.  
@@ -19,7 +19,7 @@ Strong visual identity + educational storytelling = a dashboard that’s both **
 
 ---
 
-##  Skills & Tools
+##  🛠️ Skills & Tools 🛠️
 
 - **Data Visualization:** Tableau, Power BI, Looker Studio  
 - **Data Analysis:** Excel, SQL (basic), Python (pandas, matplotlib)  
@@ -29,7 +29,7 @@ Strong visual identity + educational storytelling = a dashboard that’s both **
 
 ---
 
-## Projects
+## 📊 Projects 📊
 
 - **Music Industry Dashboard – Data Storytelling with Tableau** *(link coming soon)*  
   Six-page Tableau dashboard exploring U.S. music trends across live and recorded performance.
@@ -42,7 +42,7 @@ Strong visual identity + educational storytelling = a dashboard that’s both **
 
 ---
 
-##  What I’m Working On
+## 🧱  What I’m Working On 🧱
 
 - Expanding my **interactive dashboards** (Tableau & Power BI)  
 - Improving **data storytelling** and visual design consistency  
