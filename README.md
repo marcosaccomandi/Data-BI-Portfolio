@@ -56,7 +56,7 @@ Strong visual identity + educational storytelling = a dashboard that’s both **
 
 ---
 
-# 🇮🇹 Versione Italiana
+# Versione Italiana
 
 ### Ciao, sono Marco Saccomandi
 
