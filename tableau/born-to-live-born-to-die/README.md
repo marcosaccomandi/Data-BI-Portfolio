@@ -53,7 +53,7 @@ Designed with a **tabloid / New York Post** style to make data visually engaging
 
 A quick look at the interactive dashboards from **Born to Live, Born to Die**.
 
-| Global Overview | Regional Trends | World by Regions |
+| Global Overview | Trend Comparision | Regional Summary |
 |------------------|----------------|------------------|
 | ![Global Overview](demo_page1.gif) | ![Regional Trends](demo_page2.gif) | ![World by Regions](demo_page3.gif) |
 
