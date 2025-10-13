@@ -13,7 +13,7 @@ This evolved into a passion for turning complex datasets into clear, visual stor
 ### 🎨 Featured Project: Born to Live, Born to Die  🎨
 A tabloid-style data visualization exploring global disparities in life expectancy, infant mortality, and health spending.
 
-📊 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/marco.saccomandi/viz/PorntoLiveBorntoDie-TabloidStyleDashboardonGlobalHealt/DASHBOARDBORNTOLIVE)  
+📊 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/marco.saccomandi/viz/BorntoLiveBorntoDie-TabloidStyleDashboardonGlobalHealt/DASHBOARDBORNTOLIVE)  
 📁 [View project repository on GitHub](https://github.com/marcosaccomandi/Data-BI-Portfolio/tree/main/tableau/born-to-live-born-to-die)
 
 
