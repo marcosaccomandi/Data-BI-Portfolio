@@ -59,8 +59,8 @@ A quick look at the interactive dashboards from **Born to Live, Born to Die**.
 
 Each GIF shows key interactions:
 - **Global Overview:** world rankings, tooltips, and filters in action.  
-- **Regional Trends:** country comparison and temporal analysis.  
-- **World by Regions:** demographic distribution and interactivity by continent.
+- **Trend Comparison:** country comparison and temporal analysis.  
+- **Regional Summary:** demographic distribution and interactivity by continent.
 
 ---
 
