@@ -65,7 +65,7 @@ Each GIF shows key interactions:
 ---
 
 🔗 **View the interactive dashboard on Tableau Public:**  
-👉 [Born to Live, Born to Die – Tabloid Style Dashboard on Global Health](https://public.tableau.com/app/profile/marco.saccomandi/viz/PorntoLiveBorntoDie-TabloidStyleDashboardonGlobalHealt/DASHBOARDBORNTOLIVE)
+👉 [Born to Live, Born to Die – Tabloid Style Dashboard on Global Health](https://public.tableau.com/app/profile/marco.saccomandi/viz/BorntoLiveBorntoDie-TabloidStyleDashboardonGlobalHealt/DASHBOARDBORNTOLIVE)
 
 ---
 
