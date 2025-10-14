@@ -33,7 +33,7 @@ A tabloid-style data visualization exploring global disparities in life expectan
 
 ---
 
-## <img src="assets/section_icon_color.svg" width="20" align="center"/>Projects <img src="assets/section_icon_color.svg" width="20" align="center"/>�
+## <img src="assets/section_icon_color.svg" width="20" align="center"/> Projects 
 
 - **Music Industry Dashboard – Data Storytelling with Tableau** *(link coming soon)*  
   Six-page Tableau dashboard exploring U.S. music trends across live and recorded performance.
