@@ -85,6 +85,11 @@ Dashboard **Tableau in tre pagine**, con **stile tabloid ispirato al New York Po
 Analizza **salute, mortalità e demografia** a livello globale, con trend temporali, ranking per area e confronti interattivi basati su PIL e spesa sanitaria.  
 Identità visiva forte e taglio educativo per un progetto **analitico e orientato al design**.
 
+## Altri Progetti
+
+Caso reale di workflow Excel focalizzato su pulizia, fusione e automazione dei report dei costi fornitori per un consorzio edilizio
+[View Project →](./projects/Excel_Data_Clean_realcasesmall/Readme.md)
+
 ---
 
 ## Competenze e Strumenti
