@@ -1,4 +1,5 @@
-# https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg
+# <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="40" align="center"/> **Tech Stack**
+
  Born to Live, Born to Die — Global Health & Demographic Inequality
 
 📁 [Download Tableau Workbook (.twbx)](born-to-live-born-to-die.twbx)
@@ -9,31 +10,37 @@ Designed with a **tabloid / New York Post** style to make data visually engaging
 
 ---
 
-## 🧭 Dashboard Structure
+## <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ Dashboard Structure
 
-### 🩺 Page 1 — Health & Mortality Overview  
+### <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ Page 1 — Health & Mortality Overview  
 - Interactive world map showing **life expectancy** and **infant mortality**.  
 - Dynamic **ranking filters** (Top 10 by GDP, Population, or Health Expenditure).  
 - Clear UI instructions for accessibility and guided exploration.
 
-### 📈 Page 2 — Trends Over Time  
+### <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ Page 2 — Trends Over Time  
 - Multi-country comparison of **life expectancy**, **infant mortality**, and **health spending per capita**.  
 - Highlights **long-term health progress** and inequality trends.
 
-### 🌍 Page 3 — Regional Snapshot  
+### <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ Page 3 — Regional Snapshot  
 - KPIs by region (Population %, Life Expectancy, Birth Rate, Health Spending).  
 - Continental comparison for a global perspective.
 
 ---
 
-## 🧠 Insights
+## <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ Insights
 - Higher healthcare spending correlates with higher life expectancy.  
 - Global infant mortality rates have improved, but regional gaps remain wide.  
 - Africa and Asia show slower progress compared to Europe and Oceania.
 
 ---
 
-## 🧰 Tools & Skills
+## <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ Tools & Skills
 - Tableau Desktop  
 - Data blending, filters, parameters, and calculated fields  
 - UX design, layout composition, storytelling  
@@ -41,7 +48,8 @@ Designed with a **tabloid / New York Post** style to make data visually engaging
 
 ---
 
-## 📸 Screenshots
+## <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ Screenshots
 | Page | Preview |
 |------|----------|
 | Global Overview | ![Dashboard Page 1](../born-to-live-born-to-die/screenshot-1.png) |
@@ -50,7 +58,8 @@ Designed with a **tabloid / New York Post** style to make data visually engaging
 
 ---
 
-## 🎬 Dashboard Previews
+## <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ Dashboard Previews
 
 A quick look at the interactive dashboards from **Born to Live, Born to Die**.
 
@@ -65,10 +74,13 @@ Each GIF shows key interactions:
 
 ---
 
-🔗 **View the interactive dashboard on Tableau Public:**  
-👉 [Born to Live, Born to Die – Tabloid Style Dashboard on Global Health](https://public.tableau.com/app/profile/marco.saccomandi/viz/BorntoLiveBorntoDie-TabloidStyleDashboardonGlobalHealt/DASHBOARDBORNTOLIVE)
+<img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ **View the interactive dashboard on Tableau Public:**  
+<img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ [Born to Live, Born to Die – Tabloid Style Dashboard on Global Health](https://public.tableau.com/app/profile/marco.saccomandi/viz/BorntoLiveBorntoDie-TabloidStyleDashboardonGlobalHealt/DASHBOARDBORNTOLIVE)
 
 ---
 
-## 💬 Summary
+## <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> **Tech Stack**
+ Summary
 A creative, multi-page Tableau dashboard that merges **data analysis** and **visual storytelling** — turning demographic statistics into an engaging educational narrative.
