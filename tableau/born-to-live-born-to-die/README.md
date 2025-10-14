@@ -1,4 +1,4 @@
-# 📰 Born to Live, Born to Die — Global Health & Demographic Inequality
+# <img src="assets/section_icon_color.svg" width="20" align="center"/> Born to Live, Born to Die — Global Health & Demographic Inequality
 
 📁 [Download Tableau Workbook (.twbx)](born-to-live-born-to-die.twbx)
 
