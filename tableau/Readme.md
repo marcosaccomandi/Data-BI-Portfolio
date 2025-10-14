@@ -1,2 +1,2 @@
 <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> Projects Included 
-1. <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="20" align="center"/> [Born to Live, Born to Die](born-to-live-born-to-die/README.md) – global health and demographic analysis in a New York Post tabloid design.
+1 -  [Born to Live, Born to Die](born-to-live-born-to-die/README.md) – global health and demographic analysis in a New York Post tabloid design.
