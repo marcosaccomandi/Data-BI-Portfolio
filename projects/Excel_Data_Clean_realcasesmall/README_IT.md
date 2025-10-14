@@ -101,10 +101,10 @@ per garantire la conformità alle normative sulla privacy e la riservatezza dei 
 ---
 
 **Autore:** Marco Saccomandi  
-📅 Progetto: *Analisi Costi Fornitori 2024–2025*  
-💡 Focus: *Pulizia Dati, Automazione dei Report e Formazione Utente*
+Progetto: *Analisi Costi Fornitori 2024–2025*  
+Focus: *Pulizia Dati, Automazione dei Report e Formazione Utente*
 
 ---
 
-📘 **Lettura consigliata:**  
+**Lettura consigliata:**  
 Consulta il [Case Summary](CASE_SUMMARY_IT.md) per contesto, azioni e risultati.
