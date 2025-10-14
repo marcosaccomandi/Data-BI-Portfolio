@@ -1,8 +1,6 @@
-# <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="40" align="center"/> **Tech Stack**
+# <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg" width="40" align="center"/> ** Born to Live, Born to Die — Global Health & Demographic Inequality**
 
- Born to Live, Born to Die — Global Health & Demographic Inequality
-
-📁 [Download Tableau Workbook (.twbx)](born-to-live-born-to-die.twbx)
+📁 [Download Tableau Workbook (.twbx)](born-to-live-born-to-die.twbx) ( You'll need Tableau to open it , go down on the page for the Tableau public link)
 
 **Overview**  
 An interactive Tableau dashboard exploring *global disparities in life expectancy, infant mortality, and healthcare spending*.  
