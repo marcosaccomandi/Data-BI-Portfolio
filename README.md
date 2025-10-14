@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/banner.png" alt="Marco Saccomandi | Data & BI Portfolio" width="800"/>
 </p>
 
-### 👋 Welcome to my Data & BI Portfolio
+### <img src="assets/section_icon_color.svg" width="20" align="center"/> Welcome to my Data & BI Portfolio
 
 ### 🧠 Junior Data Analyst & BI Developer | Developing expertise in Data Visualization & Storytelling
 
