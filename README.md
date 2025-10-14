@@ -59,8 +59,9 @@ A tabloid-style data visualization exploring global disparities in life expectan
 ---
 
 ## Let’s Connect
+[**Tableau Public Profile**](https://public.tableau.com/app/profile/marco.saccomandi)
 
-(LinkedIn and Tableau Public links will be added soon.)
+(LinkedIn link will be added soon.)
 
 ---
 
@@ -124,7 +125,8 @@ Caso reale di workflow Excel focalizzato su pulizia, fusione e automazione dei r
 ---
 
 ## Contatti
+[**Tableau Public Profile**](https://public.tableau.com/app/profile/marco.saccomandi)
 
-(Link a LinkedIn e Tableau Public verranno aggiunti a breve.)
+(Link a LinkedIn verrà aggiunti a breve.)
 ---
 
