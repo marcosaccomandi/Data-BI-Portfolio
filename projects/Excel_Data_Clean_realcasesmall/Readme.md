@@ -2,10 +2,6 @@
   <img src="./assets/banner.png" alt="Project Banner" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="./assets/section_icon_color.svg" alt="Project Icon" width="120"/>
-</p>
-
 <h1 align="center">Excel Data Cleaning & Reporting – Supplier Costs 2024–2025</h1>
 
 <p align="center">
@@ -18,13 +14,13 @@
 
 ---
 
-## 🧩 Overview
+## Overview
 A real-case Excel workflow focused on **cleaning, merging, and automating supplier cost reports** for a construction consortium.  
 Multiple unstructured Excel files were consolidated into a single **Fact Table** powering dynamic pivot dashboards and printable financial summaries.
 
 ---
 
-## 🎞️ Project GIF Overview
+## Project GIF Overview
 A short GIF showcasing the full workflow — from raw data to final Excel dashboards.
 
 <p align="center">
@@ -33,7 +29,7 @@ A short GIF showcasing the full workflow — from raw data to final Excel dashbo
 
 ---
 
-## 🧱 Workflow Summary
+## Workflow Summary
 
 ### Step 1 – Raw Data Consolidation
 Raw data came from four independent Excel files (Invoices, Suppliers, Extra Costs, and Purchases) with no shared keys.  
@@ -72,7 +68,7 @@ Dynamic pivot tables were implemented to summarize and analyze supplier and cost
 
 ---
 
-## 🧮 Tools & Techniques
+## Tools & Techniques
 - **Microsoft Excel 365** – main environment  
 - **Power Query** – merge and normalization  
 - **Pivot Tables** – automated dashboards  
@@ -81,7 +77,7 @@ Dynamic pivot tables were implemented to summarize and analyze supplier and cost
 
 ---
 
-## ✅ Results
+## Results
 ✔ 4 fragmented Excel files merged into 1 unified Fact Table  
 ✔ Fully automated pivot reports for suppliers and categories  
 ✔ Standardized year-to-year structure for cost tracking  
@@ -90,10 +86,10 @@ Dynamic pivot tables were implemented to summarize and analyze supplier and cost
 
 ---
 
-## 👤 Author
+## Author
 **Marco Saccomandi**  
-📅 Project: *Supplier Cost Analysis 2024–2025*  
-💡 Focus: *Data Cleaning, Reporting Automation, and User Training*
+Project: *Supplier Cost Analysis 2024–2025*  
+Focus: *Data Cleaning, Reporting Automation, and User Training*
 
 ---
 
