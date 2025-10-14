@@ -14,13 +14,13 @@
 
 ---
 
-## Overview
+## <img src="./assets/section_icon_color.svg" alt="Project Icon" width="20"/> Overview
 A real-case Excel workflow focused on **cleaning, merging, and automating supplier cost reports** for a construction consortium.  
-Multiple unstructured Excel files were consolidated into a single **Fact Table** powering dynamic pivot dashboards and printable financial summaries.
+Multiple unstructured Excel files were consolidated into a single **Fact Table**, powering dynamic pivot dashboards and printable financial summaries.
 
 ---
 
-## Project GIF Overview
+## <img src="./assets/section_icon_color.svg" alt="Project Icon" width="20"/> Project GIF Overview
 A short GIF showcasing the full workflow — from raw data to final Excel dashboards.
 
 <p align="center">
@@ -29,7 +29,7 @@ A short GIF showcasing the full workflow — from raw data to final Excel dashbo
 
 ---
 
-## Workflow Summary
+## <img src="./assets/section_icon_color.svg" alt="Project Icon" width="20"/> Workflow Summary
 
 ### Step 1 – Raw Data Consolidation
 Raw data came from four independent Excel files (Invoices, Suppliers, Extra Costs, and Purchases) with no shared keys.  
@@ -68,16 +68,29 @@ Dynamic pivot tables were implemented to summarize and analyze supplier and cost
 
 ---
 
-## Tools & Techniques
+## <img src="./assets/section_icon_color.svg" alt="Project Icon" width="20"/> Download the Demo File
+You can explore the anonymized Excel version used in this project here:  
+📂 [**Download SupplierTabRealCase.xlsx**](./assets/SupplierTabRealCase.xlsx)
+
+---
+
+## <img src="./assets/section_icon_color.svg" alt="Project Icon" width="20"/> Privacy Note
+This project was built using **real operational data** from a construction consortium.  
+All supplier names and identifiable information were **anonymized** in the public version  
+to ensure full compliance with privacy and data protection requirements.
+
+---
+
+## <img src="./assets/section_icon_color.svg" alt="Project Icon" width="20"/> Tools & Techniques
 - **Microsoft Excel 365** – main environment  
 - **Power Query** – merge and normalization  
 - **Pivot Tables** – automated dashboards  
 - **Conditional Formatting** – highlighting and validation  
-- **Manual normalization** – supplier and category cleanup  
-
+- **Manual normalization** – supplier and category cleanup
+- **Python (OpenPyXL)** – used to anonymize supplier names in the final Excel file
 ---
 
-## Results
+## <img src="./assets/section_icon_color.svg" alt="Project Icon" width="20"/> Results
 ✔ 4 fragmented Excel files merged into 1 unified Fact Table  
 ✔ Fully automated pivot reports for suppliers and categories  
 ✔ Standardized year-to-year structure for cost tracking  
@@ -86,15 +99,12 @@ Dynamic pivot tables were implemented to summarize and analyze supplier and cost
 
 ---
 
-## Author
+## <img src="./assets/section_icon_color.svg" alt="Project Icon" width="20"/> Author
 **Marco Saccomandi**  
 Project: *Supplier Cost Analysis 2024–2025*  
 Focus: *Data Cleaning, Reporting Automation, and User Training*
 
 ---
 
-📘 **Further reading:**  
+**Further reading:**  
 See the full [Case Summary](CASE_SUMMARY.md) for context, actions, and impact.
-
-
-
