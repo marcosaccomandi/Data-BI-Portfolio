@@ -46,7 +46,7 @@ A tabloid-style data visualization exploring global disparities in life expectan
 
 ---
 
-## <img src="assets/section_icon_color.svg" width="20" align="center"/>  What I’m Working On �
+## <img src="assets/section_icon_color.svg" width="20" align="center"/>  What I’m Working On 
 
 - Expanding my **interactive dashboards** (Tableau & Power BI)  
 - Improving **data storytelling** and visual design consistency  
