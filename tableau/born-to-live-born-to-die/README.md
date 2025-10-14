@@ -1,4 +1,5 @@
-# <img src="assets/section_icon_color.svg" width="20" align="center"/> Born to Live, Born to Die — Global Health & Demographic Inequality
+# https://raw.githubusercontent.com/marcosaccomandi/Data-BI-Portfolio/main/assets/section_icon_color.svg
+ Born to Live, Born to Die — Global Health & Demographic Inequality
 
 📁 [Download Tableau Workbook (.twbx)](born-to-live-born-to-die.twbx)
 
