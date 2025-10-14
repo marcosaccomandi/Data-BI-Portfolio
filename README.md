@@ -20,6 +20,10 @@ A tabloid-style data visualization exploring global disparities in life expectan
 📊 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/marco.saccomandi/viz/BorntoLiveBorntoDie-TabloidStyleDashboardonGlobalHealt/DASHBOARDBORNTOLIVE)  
 📁 [View project repository on GitHub](https://github.com/marcosaccomandi/Data-BI-Portfolio/tree/main/tableau/born-to-live-born-to-die)
 
+### <img src="assets/section_icon_color.svg" width="20" align="center"/> Excel · Data Cleaning & Reporting (Real Case)
+> Small-scale real case focused on data cleaning, consolidation, and reporting automation using Excel and Pivot Tables.
+
+📁 [View Project →](./projects/Excel_Data_Clean_realcasesmall/Readme.md)
 
 ---
 
