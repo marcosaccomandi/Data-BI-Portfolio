@@ -4,7 +4,7 @@
 
 ### <img src="assets/section_icon_color.svg" width="20" align="center"/> Welcome to my Data & BI Portfolio
 
-### 🧠 Junior Data Analyst & BI Developer | Developing expertise in Data Visualization & Storytelling
+### <img src="assets/section_icon_color.svg" width="20" align="center"/> Junior Data Analyst & BI Developer | Developing expertise in Data Visualization & Storytelling
 
 Welcome to my GitHub!  
 I’m a **Junior Data Analyst and BI Developer** with a strong background in **eCommerce and digital marketing**, now focused on **data visualization, dashboard design, and business insights**.
@@ -14,7 +14,7 @@ This evolved into a passion for turning complex datasets into clear, visual stor
 
 ---
 
-### 🎨 Featured Project: Born to Live, Born to Die  🎨
+### <img src="assets/section_icon_color.svg" width="20" align="center"/> Featured Project: Born to Live, Born to Die  
 A tabloid-style data visualization exploring global disparities in life expectancy, infant mortality, and health spending.
 
 📊 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/marco.saccomandi/viz/BorntoLiveBorntoDie-TabloidStyleDashboardonGlobalHealt/DASHBOARDBORNTOLIVE)  
@@ -23,7 +23,7 @@ A tabloid-style data visualization exploring global disparities in life expectan
 
 ---
 
-##  🛠️ Skills & Tools 🛠️
+##  <img src="assets/section_icon_color.svg" width="20" align="center"/> Skills & Tools 
 
 - **Data Visualization:** Tableau, Power BI, Looker Studio  
 - **Data Analysis:** Excel, SQL (basic), Python (pandas, matplotlib)  
@@ -33,7 +33,7 @@ A tabloid-style data visualization exploring global disparities in life expectan
 
 ---
 
-## 📊 Projects 📊
+## <img src="assets/section_icon_color.svg" width="20" align="center"/>Projects <img src="assets/section_icon_color.svg" width="20" align="center"/>�
 
 - **Music Industry Dashboard – Data Storytelling with Tableau** *(link coming soon)*  
   Six-page Tableau dashboard exploring U.S. music trends across live and recorded performance.
@@ -46,7 +46,7 @@ A tabloid-style data visualization exploring global disparities in life expectan
 
 ---
 
-## 🧱  What I’m Working On 🧱
+## <img src="assets/section_icon_color.svg" width="20" align="center"/>  What I’m Working On �
 
 - Expanding my **interactive dashboards** (Tableau & Power BI)  
 - Improving **data storytelling** and visual design consistency  
